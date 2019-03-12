@@ -82,6 +82,7 @@ nav .link:hover {
     flex-direction: column;
     align-content: center;
   }
+
   /* nav li {
     margin-right: 500px;
   } */
@@ -91,7 +92,7 @@ nav .link:hover {
 
 .content {
   margin: auto;
-  width: 90vw;
+  width: 50vw;
   height: 90vh;
 }
 
